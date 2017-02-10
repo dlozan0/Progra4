@@ -248,6 +248,10 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\app.js" />
+    <Content Include="app\controllers\lugaresexplorarcontroller.js" />
+    <Content Include="app\controllers\maincontroller.js" />
+    <Content Include="app\views\resultadolugares.html" />
     <Content Include="Areas\HelpPage\HelpPage.css" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -1136,11 +1140,9 @@
     <Content Include="Scripts\version.json" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="app\controllers\" />
     <Folder Include="app\directives\" />
     <Folder Include="app\filters\" />
     <Folder Include="app\services\" />
-    <Folder Include="app\views\" />
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
