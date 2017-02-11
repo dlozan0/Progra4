@@ -251,6 +251,7 @@
     <Content Include="app\app.js" />
     <Content Include="app\controllers\lugaresexplorarcontroller.js" />
     <Content Include="app\controllers\maincontroller.js" />
+    <Content Include="app\views\bi_binding.html" />
     <Content Include="app\views\resultadolugares.html" />
     <Content Include="Areas\HelpPage\HelpPage.css" />
     <Content Include="Content\bootstrap-theme.css" />
